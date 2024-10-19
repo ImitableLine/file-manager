@@ -1,0 +1,9 @@
+[package]
+name = "file-manager"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+libc = "0.2" 
+directories = "5.0.1"  
+shellexpand = "3.1.0"
